@@ -1,2 +1,4 @@
 # macgen
- It generates random MAC addressess, random practice thing I did.
+ It generates random MAC addressess, practice thing I did.
+
+ `OUIS.txt` is not needed.
